@@ -13,5 +13,6 @@
 
 
 下载 download：
+[convertPNG2ICO](https://github.com/keomeu/convert-PNG-to-ICO/releases/download/V1.0/convertPNG2ICO.exe)
 
-https://github.com/keomeu/convert-PNG-to-ICO/releases/download/V1.0/convertPNG2ICO.exe
+
