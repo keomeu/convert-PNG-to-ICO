@@ -9,3 +9,9 @@
 
 ![image](https://github.com/keomeu/convert-PNG-to-ICO/assets/49936625/7793ecdc-39af-4da3-b8df-5021347b6a66)
 
+
+
+
+下载 download：
+
+https://github.com/keomeu/convert-PNG-to-ICO/releases/download/V1.0/convertPNG2ICO.exe
